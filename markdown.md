@@ -39,8 +39,8 @@ Para más información general sobre servidores, visita el portal oficial de [Ng
 ### Diagrama Local del Despliegue
 ![Diagrama Local](assets/mi-imagen.png)
 
-### Centro Educativo (Wikimedia Commons)
-![IES Campanillas](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/IES_Campanillas.jpg/640px-IES_Campanillas.jpg)
+### Centro Educativo
+![IES Clara del Rey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)
 
 ---
 
