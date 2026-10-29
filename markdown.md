@@ -40,7 +40,7 @@ Para más información general sobre servidores, visita el portal oficial de [Ng
 ![Diagrama Local](assets/mi-imagen.png)
 
 ### CENTRO EDUCATIVO
-![IES Clara del Rey](https://lh3.googleusercontent.com/d/1-0)
+![IES Clara del Rey](https://upload.wikimedia.org/wikipedia/commons/0/00/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
 ---
 
 ## 4. Comparativa de Servidores Web
