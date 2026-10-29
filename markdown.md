@@ -36,7 +36,6 @@ Para más información general sobre servidores, visita el portal oficial de [Ng
 
 ## 3. Galería Multimedia
 
-### Diagrama Local del Despliegue
 ![Diagrama Local](assets/mi-imagen.png)
 
 ### Centro Educativo 
