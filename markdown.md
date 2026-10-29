@@ -39,8 +39,8 @@ Para más información general sobre servidores, visita el portal oficial de [Ng
 ### Diagrama Local del Despliegue
 ![Diagrama Local](assets/mi-imagen.png)
 
-### Centro Educativo (Wikimedia Commons)
-![IES Clara del Rey](https://upload.wikimedia.org/wikipedia/commons/0/00/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
+### IES CLARA DE REY
+![IES Clara del Rey](https://lh3.googleusercontent.com/d/1-0)
 ---
 
 ## 4. Comparativa de Servidores Web
