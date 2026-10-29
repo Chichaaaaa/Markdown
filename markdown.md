@@ -27,3 +27,26 @@ El siguiente script en Bash automatiza el aprovisionamiento inicial:
 sudo apt update && sudo apt upgrade -y
 sudo apt install nginx git -y
 sudo systemctl enable --now nginx
+```
+
+Para consultar los requisitos técnicos detallados del proyecto, visita el documento de [Detalles Técnicos](docs/detalles.md).  
+Para más información general sobre servidores, visita el portal oficial de [Nginx Docs](https://nginx.org/en/docs/).
+
+---
+
+## 3. Galería Multimedia
+
+### Diagrama Local del Despliegue
+![Diagrama Local](assets/mi-imagen.png)
+
+### Centro Educativo (Wikimedia Commons)
+![IES Campanillas](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/IES_Campanillas.jpg/640px-IES_Campanillas.jpg)
+
+---
+
+## 4. Comparativa de Servidores Web
+
+| Servidor Web | Modelo de Concurrencia | Uso Recomendado |
+| :--- | :--- | :--- |
+| Nginx | Asíncrono / Event-driven | Proxy inverso y alta concurrencia |
+| Apache | Basado en procesos / hilos | Compatibilidad y módulos `.htaccess` |
