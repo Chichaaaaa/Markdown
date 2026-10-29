@@ -40,7 +40,7 @@ Para más información general sobre servidores, visita el portal oficial de [Ng
 ![Diagrama Local](assets/mi-imagen.png)
 
 ### Centro Educativo (IES Clara del Rey)
-![IES Clara del Rey](assets/clara.jpg)
+![IES Clara del Rey](https://raw.githubusercontent.com/Chichaaaaa/Markdown/main/assets/clara.jpg)
 ---
 
 ## 4. Comparativa de Servidores Web
