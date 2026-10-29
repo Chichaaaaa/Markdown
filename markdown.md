@@ -39,9 +39,8 @@ Para más información general sobre servidores, visita el portal oficial de [Ng
 ### Diagrama Local del Despliegue
 ![Diagrama Local](assets/mi-imagen.png)
 
-### Centro Educativo
-![IES Clara del Rey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)
-
+### Centro Educativo (IES Clara del Rey)
+![IES Clara del Rey](https://upload.wikimedia.org/wikipedia/commons/b/b5/Madrid_-_IES_Clara_del_Rey_01.jpg)
 ---
 
 ## 4. Comparativa de Servidores Web
