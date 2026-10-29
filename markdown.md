@@ -39,7 +39,7 @@ Para más información general sobre servidores, visita el portal oficial de [Ng
 ### Diagrama Local del Despliegue
 ![Diagrama Local](assets/mi-imagen.png)
 
-### IES CLARA DE REY
+### CENTRO EDUCATIVO
 ![IES Clara del Rey](https://lh3.googleusercontent.com/d/1-0)
 ---
 
