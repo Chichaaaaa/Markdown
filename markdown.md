@@ -40,7 +40,7 @@ Para más información general sobre servidores, visita el portal oficial de [Ng
 
 ### Centro Educativo
 
-![IES Clara del Rey](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/1920px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&=2020071190004)
+![IES Clara del Rey](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/1920px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20200711190004)
 
 ---
 
